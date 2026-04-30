@@ -64,7 +64,11 @@ print("\(y) - \(x) = \(multiplied2)")
 print("\(y) / \(x) = \(divided2)")
 print("\(x) % \(y) = \(remainder2)")
 
+print(Zavier Hill)
 
+let firstName = readline()!
+
+print(My name is )
 
 }
 
