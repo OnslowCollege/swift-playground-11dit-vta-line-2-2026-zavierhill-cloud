@@ -64,11 +64,11 @@ print("\(y) - \(x) = \(multiplied2)")
 print("\(y) / \(x) = \(divided2)")
 print("\(x) % \(y) = \(remainder2)")
 
-print(Zavier Hill)
+print()
 
-let firstName = readline()!
+let firstName = readLine()!
 
-print(My name is )
+print(Zavier \(Hill)."
 
 }
 
