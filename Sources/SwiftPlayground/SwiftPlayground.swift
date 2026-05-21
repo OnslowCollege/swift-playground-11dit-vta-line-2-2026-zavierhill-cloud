@@ -31,8 +31,7 @@ print(firstName)
         let noun1 = "chad"
         let verb1 = "dance"
 
-let madLibString = "Once upon a time, there was a \
-(adjective1) \(noun1) who loved to \(verb1) every day."
+let madLibString = "Once upon a time, there was a \(adjective1) \(noun1) who loved to \(verb1) every day."
 
 
    
@@ -66,10 +65,15 @@ print("\(x) % \(y) = \(remainder2)")
 
 print("Enter your name:")
 
-let firstName = readLine()!
+let firstName2 = readLine()!
 
-print("Your name is \(firstName)."
+print("Your name is \(firstName2).")
 
+print("Enter your age: ")
+let userInput = readLine()!
+let age = Int(userInput)!
+let (isOldEnough) = age >= 18
+print(isOldEnough) 
 
     }
 
