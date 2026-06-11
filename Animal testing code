@@ -1,0 +1,17 @@
+print ("Welcome to Zealandia Tracker.")
+
+    
+    print ("Did you see a Bird or Insect")
+
+    if input == "Bird" {
+        print("Which Bird did you see?")
+            let input = readLine ()
+
+            let birds: [String] = ["Tieke", "Kākā", "Takahē", "Hihi", "Kiwi", "Pāteke", "Tūī", "Kererū"]
+
+            if input == "Insect" {
+                print("Which Insect did you see?")
+                    let input = readLine ()
+
+                    let insects: [String] = ["Giant Wētā", "Tree Wētā", "Cave Wētā", "Putoko", "Pūngāwerewere", "Ngaokeoke", "Waemano", "Kapowai"]
+
